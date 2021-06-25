@@ -20,3 +20,8 @@ function CheckTask () {
 function testComplete () {
     console.log('testComplete');
 }
+
+
+function donTask () {
+    console.log('doneTask');
+}
